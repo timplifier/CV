@@ -12,6 +12,34 @@ I'm also familiar with responsive design principles, trying my best to simplify 
 I am extremely familiar with **XML** as the way to develop user interfaces.
 
 I am always striving for self-improvement and improvement of my hard skills, so I try to learn new technologies and tools as they come out. I work well in a team and I am ready to share my knowledge and experience with other developers so that we can create maintainable, high-quality and efficient code together.
+
+## 🎯 Hard Skills
+
+- OOP
+- SOLID
+- Clean Architecture
+- Git & GitFlow
+- Kotlin, Java 
+- Android SDK
+- Gradle 
+- Modularization
+- Kotlin DSL
+- Dependency Management (buildSrc, Version Catalog) 
+- Dokka ( HTML-Based, Markdown-Based ) 
+- Serializable, Parcelable
+- Navigation Component, Safe Args, Base Deep Linking 
+- ViewBinding, ViewBindingPropertyDelegate
+- MaterialDesign
+- ConstraintLayout, GuideLines 
+- Glide, Coil, Picasso 
+- MVVM
+- Single Activity Architecture
+- Dagger-Hilt, Koin
+- Room
+- Retrofit2
+- OkHttp3
+- Paging3
+
 ## 👩🏼‍💻 Engineering Experience
 
 **Android Developer** [Timely Soft](www.timelysoft.net/) _(Jan 2022 - Nov 2022)_ <br>
@@ -32,7 +60,6 @@ I am always striving for self-improvement and improvement of my hard skills, so 
 - **TSJ.Security** + **TSJDom.Com** - **TSZ** portal is an Internet site for your partnership (TSZ, SNT, etc.), which provides special mechanisms for the distribution, storage and operational exchange of information between the board and members of TSZ.<br><br>
 
 #### 🏆 Achievements 
-Implemented a new feature from scratch in TSJDom.Com, seamlessly integrating it into an existing legacy project without the luxury of a transition period. Successfully completed the task independently, relying solely on personal expertise and knowledge. Effectively utilized pre-existing logic and seamlessly incorporated it into the new feature, ensuring the integrity of the entire system remained intact. Demonstrated exceptional dedication by working on the project solo, dedicating personal time during nights to ensure timely completion.
 
 **Android Developer** [GeekStudio](https://geekstudio.kg/) _(Nov 2022 - Mar 2023)_ <br>
 Relatively young but with perspectives. Local IT-company specializing in IT-consulting and web robust application development, providing solutions for most of the clients's problems. 
@@ -60,7 +87,7 @@ During my tenure on the TezSat project, I accomplished significant milestones in
 
 Through these achievements, I played a pivotal role in enhancing various aspects of the TezSat project, including authentication, documentation, architecture, and build management.
 
-**Main project**: **[Tez Sat](https://play.google.com/store/apps/details?id=com.tezsat.tezsat)**
+**Main project**: **[Tez Sat](https://play.google.com/store/apps/details?id=com.tezsat.tezsat)** <br>
 Tez Sat - Free marketplace in your pocket, developed by Kyrgyz for Kyrgyzstan. allowing you to sell items with convenience by posting ads with photos. 
 Items claim is also easy with Tez Sat.
   <br><br>
@@ -78,7 +105,7 @@ Items claim is also easy with Tez Sat.
 - **_Technologies used:_** **Kotlin, Android SDK, XML, ViewBinding, ViewBindingPropertyDelegate, Glide, NavigationComponent, Yandex Map SDK, Advanced Koin, Ktor, WebSockets, Retrofit, OkHttp3, Gradle, VersionCatalog, KDoc, Dokka, Kotlin DSL**.
 
 
-**Main project**: **[Tez Sat](https://play.google.com/store/apps/details?id=com.tezsat.tezsat)**
+**Main project**: **[Tez Sat](https://play.google.com/store/apps/details?id=com.tezsat.tezsat)** <br>
 
 Tez Sat - Free marketplace in your pocket, developed by Kyrgyz for Kyrgyzstan. allowing you to sell items with convenience by posting ads with photos. 
 Items claim is also easy with Tez Sat.
