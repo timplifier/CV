@@ -27,15 +27,12 @@ I am always striving for self-improvement and improvement of my hard skills, so 
 
 **Projects:**
 
-**Givee** - **Cashback and aggregator system**.
+- **Givee** - **Cashback and aggregator system**.
 
-**TSJ.Security** + **TSJDom.Com** - **TSZ** portal is an Internet site for your partnership (TSZ, SNT, etc.), which provides special mechanisms for the distribution, storage and operational exchange of information between the board and members of TSZ.<br><br>
-
+- **TSJ.Security** + **TSJDom.Com** - **TSZ** portal is an Internet site for your partnership (TSZ, SNT, etc.), which provides special mechanisms for the distribution, storage and operational exchange of information between the board and members of TSZ.<br><br>
 
 #### 🏆 Achievements 
 Implemented a new feature from scratch in TSJDom.Com, seamlessly integrating it into an existing legacy project without the luxury of a transition period. Successfully completed the task independently, relying solely on personal expertise and knowledge. Effectively utilized pre-existing logic and seamlessly incorporated it into the new feature, ensuring the integrity of the entire system remained intact. Demonstrated exceptional dedication by working on the project solo, dedicating personal time during nights to ensure timely completion.
-
-TSJ.Dom - Implementing completely new feature in Legacy Projct.
 
 **Android Developer** [GeekStudio](https://geekstudio.kg/) _(Nov 2022 - Mar 2023)_ <br>
 Relatively young but with perspectives. Local IT-company specializing in IT-consulting and web robust application development, providing solutions for most of the clients's problems. 
@@ -82,12 +79,11 @@ Items claim is also easy with Tez Sat.
 
 
 **Main project**: **[Tez Sat](https://play.google.com/store/apps/details?id=com.tezsat.tezsat)**
+
 Tez Sat - Free marketplace in your pocket, developed by Kyrgyz for Kyrgyzstan. allowing you to sell items with convenience by posting ads with photos. 
 Items claim is also easy with Tez Sat.
 
 #### 🏆 Achievements 
-
-
 
 **Android Developer** [Avangard Style](https://avangardstyle.kg/) _(Feb 2023 - Apr 2023)_ <br>
 
