@@ -42,7 +42,7 @@ I am always striving for self-improvement and improvement of my hard skills, so 
 
 ## 👩🏼‍💻 Engineering Experience
 
-**Android Developer** [Timely Soft](www.timelysoft.net/) _(Jan 2022 - Nov 2022)_ <br>
+## **Android Developer** [Timely Soft](www.timelysoft.net/) _(Jan 2022 - Nov 2022)_ <br>
 **Timely Soft** - **Gold Microsoft Partner** in Application Development competency. Staff are attested by **Microsoft** programmes. Local IT-company that is widely known for its IT-consulting abilities and web development superiority.
 **Timely Soft** actively interacts with superior high education institutions, announcing and performing educational programmes in IT, providing skill development and internships. Its founders are famous in educational aspect, acting in this field for more than 10 years, investing in IT education by making Hackathons, Olympiad in Informatics available for everyone, including kids.
 
