@@ -64,7 +64,8 @@ I am always striving for self-improvement and improvement of my hard skills, so 
 #### 🏆 Role Achievements 
 Implemented a new feature from scratch in TSJDom.Com, seamlessly integrating it into an existing legacy project without the luxury of a transition period. Successfully completed the task independently, relying solely on personal expertise and knowledge. Effectively utilized pre-existing logic and seamlessly incorporated it into the new feature, ensuring the integrity of the entire system remained intact. Demonstrated exceptional dedication by working on the project solo, dedicating personal time during nights to ensure timely completion.
 
-**Android Developer** [GeekStudio](https://geekstudio.kg/) _(Nov 2022 - Mar 2023)_ <br>
+
+## **Android Developer** [GeekStudio](https://geekstudio.kg/) _(Nov 2022 - Mar 2023)_ <br>
 Relatively young but with perspectives. Local IT-company specializing in IT-consulting and web robust application development, providing solutions for most of the clients's problems. 
   - Supporting a legacy project by fixing bugs & implementing new features;
   - Integration with IOS(Swift), UX-UI designers, Backend(Python, Django), Front-end (JavaScript, TypeScript);
@@ -95,7 +96,7 @@ Tez Sat - Free marketplace in your pocket, developed by Kyrgyz for Kyrgyzstan. a
 Items claim is also easy with Tez Sat.
   <br><br>
 
-**Lead Android Developer** [GeekStudio](https://geekstudio.kg/) _(Mar 2023 - Present)_ <br>
+## **Lead Android Developer** [GeekStudio](https://geekstudio.kg/) _(Mar 2023 - Present)_ <br>
 - Implementing hard features;
 - Writing technical documentation;
 - Participating in regular sprint reviews;
@@ -126,7 +127,7 @@ Furthermore, I have taken the initiative to restructure our app's architecture t
 
 In my role as the Lead Android Developer, my achievements reflect my unwavering commitment to innovation, efficiency, and continuous improvement. I am continuously driving positive change by revolutionizing our intern recruitment, training interns effectively, optimizing build performance, fortifying security measures, and enhancing our app's architecture. These accomplishments showcase my ability to spearhead impactful transformations that elevate the quality and success of our Android projects in the present moment.
 
-**Android Developer** [Avangard Style](https://avangardstyle.kg/) _(Feb 2023 - Apr 2023)_ <br>
+## **Android Developer** [Avangard Style](https://avangardstyle.kg/) _(Feb 2023 - Apr 2023)_ <br>
 
 In a contracted role spanning two months at AvangardStyle, I successfully developed a comprehensive Android application from scratch for a burgeoning building company. This application has since revolutionized the company's payment ecosystem by providing a robust, secure, and user-friendly platform for residents to seamlessly manage their rent payments and other related transactions.
 
