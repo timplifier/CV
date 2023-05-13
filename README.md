@@ -1,18 +1,31 @@
-# Timur Abdyraev
+# Timur Abdyraev  - Android Developer with Rich Experience in Mobile Application Development and Team Leadership
+
 _Software Android Engineer from Kyrgyzstan, Bishkek  🇰🇬_ <br>
 
 [Email](mailto:timplifier@gmail.com) /  [LinkedIn](https://www.linkedin.com/in/timur-abdyraev/) / [GitHub](https://github.com/timplifier/) / [Telegram](https://t.me/timplifier)
 
-Hello! I am an Android Developer with 1 year and 4 months of commercial experience specializing in mobile android application development using **Java, Kotlin and Android SDK**.
+Hello! I am a seasoned **Android Developer** with _1 year and 4 months_ of commercial experience specializing in mobile android application development. My technical prowess in **Java**, **Kotlin**, and **Android SDK** forms the foundation of my development expertise. Moreover, I bring leadership skills to the table, having had the opportunity to lead teams and guide projects to successful completion.
 
-During this time, I gained experience in distinguishing between the best architecture for this particular application, designing UI components, writing code to manage the application state, interacting with the server side of the application, and optimizing the application performance, ending with writing technical documentation using **Dokka**.
+## Core Proficiencies
 
-I'm also familiar with responsive design principles, trying my best to simplify user interface development. In addition, I have experience with **Gradle**, which allows me to manipulate with app's build process.
+- **Application Architecture:** I've gained experience in distinguishing the best architecture for any particular application, ensuring a seamless user experience.
+- **UI Design:** Designing intuitive and interactive UI components that captivate users is one of my strong suits.
+- **Code Management:** I excel in writing and managing code for optimal application state, ensuring smooth performance.
+- **Server-Side Interaction:** I have a strong background in interfacing with the server side of applications, ensuring robust and reliable data exchange.
+- **Performance Optimization:** I am adept at identifying bottlenecks and optimizing application performance for a superior user experience.
+- **Technical Documentation:** My proficiency in writing detailed technical documentation using **Dokka** enhances understanding and knowledge transfer for other developers.
 
-I am extremely familiar with **XML** as the way to develop user interfaces.
+## Leadership and Team Management
 
-I am always striving for self-improvement and improvement of my hard skills, so I try to learn new technologies and tools as they come out. I work well in a team and I am ready to share my knowledge and experience with other developers so that we can create maintainable, high-quality and efficient code together.
+In addition to my technical competencies, I have some experience in **team leading**. I have successfully guided teams in various projects, fostering collaboration, and promoting shared learning. My ability to effectively communicate and coordinate has helped to ensure that projects remain on track and within scope, resulting in successful deliveries.
 
+## Other Skills
+
+I'm familiar with responsive design principles and strive to simplify user interface development. My understanding of **Gradle** enables efficient manipulation of the app's build process. I am also well-versed in **XML** for developing user interfaces, adding to my versatility as an android developer.
+
+## Continuous Learning and Collaboration
+
+I am always striving for self-improvement and enhancement of my hard skills, so I make it a point to learn new technologies and tools as they emerge. I believe in the power of teamwork and am always ready to share my knowledge and experience with other developers. Together, we can create maintainable, high-quality, and efficient code that aligns with our team's objectives.
 ## 🎯 Hard Skills
 
 - OOP
@@ -58,8 +71,6 @@ I am always striving for self-improvement and improvement of my hard skills, so 
 - **Givee** - **Cashback and aggregator system**.
 
 - **TSJ.Security** + **TSJDom.Com** - **TSZ** portal is an Internet site for your partnership (TSZ, SNT, etc.), which provides special mechanisms for the distribution, storage and operational exchange of information between the board and members of TSZ.<br><br>
-
-
 
 #### 🏆 Role Achievements 
 Implemented a new feature from scratch in TSJDom.Com, seamlessly integrating it into an existing legacy project without the luxury of a transition period. Successfully completed the task independently, relying solely on personal expertise and knowledge. Effectively utilized pre-existing logic and seamlessly incorporated it into the new feature, ensuring the integrity of the entire system remained intact. Demonstrated exceptional dedication by working on the project solo, dedicating personal time during nights to ensure timely completion.
