@@ -59,7 +59,10 @@ I am always striving for self-improvement and improvement of my hard skills, so 
 
 - **TSJ.Security** + **TSJDom.Com** - **TSZ** portal is an Internet site for your partnership (TSZ, SNT, etc.), which provides special mechanisms for the distribution, storage and operational exchange of information between the board and members of TSZ.<br><br>
 
-#### 🏆 Achievements 
+
+
+#### 🏆 Role Achievements 
+Implemented a new feature from scratch in TSJDom.Com, seamlessly integrating it into an existing legacy project without the luxury of a transition period. Successfully completed the task independently, relying solely on personal expertise and knowledge. Effectively utilized pre-existing logic and seamlessly incorporated it into the new feature, ensuring the integrity of the entire system remained intact. Demonstrated exceptional dedication by working on the project solo, dedicating personal time during nights to ensure timely completion.
 
 **Android Developer** [GeekStudio](https://geekstudio.kg/) _(Nov 2022 - Mar 2023)_ <br>
 Relatively young but with perspectives. Local IT-company specializing in IT-consulting and web robust application development, providing solutions for most of the clients's problems. 
@@ -71,7 +74,7 @@ Relatively young but with perspectives. Local IT-company specializing in IT-cons
   - Creating a business profile for the marketplace, updating the old functionality, introducing new features for the users convenience.
   - **_Technologies used:_** **Kotlin, Android SDK, XML, ViewBinding, ViewBindingPropertyDelegate, Glide, NavigationComponent, Yandex Map SDK, Advanced Koin, Ktor, Retrofit, OkHttp3, Gradle, BuildSrc,  KDoc, Dokka, Kotlin DSL**.
 
-#### 🏆 Achievements 
+#### 🏆 Role Achievements 
 
 During my tenure on the TezSat project, I accomplished significant milestones in multiple areas, resulting in improved functionality, efficiency, and developer experience.
 
@@ -110,7 +113,18 @@ Items claim is also easy with Tez Sat.
 Tez Sat - Free marketplace in your pocket, developed by Kyrgyz for Kyrgyzstan. allowing you to sell items with convenience by posting ads with photos. 
 Items claim is also easy with Tez Sat.
 
-#### 🏆 Achievements 
+#### 🏆 Role Achievements 
+As the **Lead Android Developer**, I am continually making impressive strides that leave a lasting impression on everyone around me. One of my standout accomplishments is the complete transformation of our intern recruitment process. I have designed and implemented a **cutting-edge, scalable competency matrix** that revolutionizes how we onboard interns. This matrix not only allows us to attract top-tier candidates but also expands the skillsets of our existing interns, making them invaluable contributors to our team.
+
+In just one month, I have successfully trained and prepared six interns to face the realities of Android development. Through an intensive *crash-course program*, I provide them with comprehensive knowledge and hands-on tasks to ensure they become well-versed in the technologies we utilize. This rapid training approach empowers them to hit the ground running and contribute effectively to our projects.
+
+Guiding a team of seven Android developers, I am leading the development of the **Tez Sat legacy project**. As part of this endeavor, I have significantly improved the app's build performance by optimizing our utilization of **Gradle as a build tool**. This enhancement has dramatically reduced build times, boosting productivity and streamlining the development process.
+
+To fortify our app's security and maintain high code quality, I have implemented a robust **CI/CD pipeline**. This pipeline seamlessly integrates with the **AppSweep service**, conducting vulnerability scans each time a pull request is merged into our development branch. Additionally, I have incorporated the **Ktlint linter**, which ensures consistent code formatting and enforces our project's coding standards. By enhancing the developer experience and promoting adherence to a unified code style, I am fostering a collaborative and efficient work environment.
+
+Furthermore, I have taken the initiative to restructure our app's architecture to align with industry best practices. This ongoing effort improves code organization, maintainability, and sets the stage for future scalability and adaptability.
+
+In my role as the Lead Android Developer, my achievements reflect my unwavering commitment to innovation, efficiency, and continuous improvement. I am continuously driving positive change by revolutionizing our intern recruitment, training interns effectively, optimizing build performance, fortifying security measures, and enhancing our app's architecture. These accomplishments showcase my ability to spearhead impactful transformations that elevate the quality and success of our Android projects in the present moment.
 
 **Android Developer** [Avangard Style](https://avangardstyle.kg/) _(Feb 2023 - Apr 2023)_ <br>
 
