@@ -3,7 +3,7 @@ _Software Android Engineer from Kyrgyzstan, Bishkek  🇰🇬_ <br>
 
 [Email](mailto:timplifier@gmail.com) /  [LinkedIn](https://www.linkedin.com/in/timur-abdyraev/) / [GitHub](https://github.com/timplifier/) / [Telegram](https://t.me/timplifier)
 
-Hello! I am a front-end developer with 1 year and 4 months of commercial experience specializing in mobile android application development using **Java, Kotlin and Android SDK**.
+Hello! I am an Android Developer with 1 year and 4 months of commercial experience specializing in mobile android application development using **Java, Kotlin and Android SDK**.
 
 During this time, I gained experience in distinguishing between the best architecture for this particular application, designing UI components, writing code to manage the application state, interacting with the server side of the application, and optimizing the application performance, ending with writing technical documentation using **Dokka**.
 
