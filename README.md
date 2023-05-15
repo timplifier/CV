@@ -55,12 +55,16 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 ## 👩🏼‍💻 Engineering Experience
 
 ## **Android Developer** [Timely Soft](www.timelysoft.net/) _(Jan 2022 - Nov 2022)_ <br>
-**Timely Soft** - **Gold Microsoft Partner** in Application Development competency. Staff are attested by **Microsoft** programmes. Local IT-company that is widely known for its IT-consulting abilities and web development superiority.
-**Timely Soft** actively interacts with superior high education institutions, announcing and performing educational programmes in IT, providing skill development and internships. Its founders are famous in educational aspect, acting in this field for more than 10 years, investing in IT education by making Hackathons, Olympiad in Informatics available for everyone, including kids.
+
+### Gold Microsoft Partner in Application Development Competency
+
+Staff are attested by **Microsoft** programmes. **Timely Soft** is a local IT-company that is widely known for its expertise in IT consulting and web development superiority.
+
+**Timely Soft** actively interacts with top-tier higher education institutions, announcing and conducting educational programmes in IT. This includes providing skill development opportunities and internships. Its founders have over 10 years of experience in the educational field, investing in IT education by organizing Hackathons, Olympiads in Informatics, and making them accessible to everyone, including children.
 
 - Developing a startup from scratch.
 - Working in a complete team.
-- Constant hard skills improvement with mentor. 
+- Constant hard skills improvement with mentor.
 - Supporting a legacy project.
 - Implementing new features in the legacy project.
 - **_Technologies used:_** **Java, Kotlin, Android SDK, XML, ViewBinding, ViewBindingPropertyDelegate, Glide, Navigation Component, CoreLibraryDesugaring, Hilt, Retrofit, OkHttp3, BuildSrc, Kotlin DSL**.
@@ -76,14 +80,16 @@ Implemented a new feature from scratch in TSJDom.Com, seamlessly integrating it 
 
 
 ## **Android Developer** [GeekStudio](https://geekstudio.kg/) _(Nov 2022 - Mar 2023)_ <br>
-Relatively young but with perspectives. Local IT-company specializing in IT-consulting and web robust application development, providing solutions for most of the clients's problems. 
-  - Supporting a legacy project by fixing bugs & implementing new features;
-  - Integration with IOS(Swift), UX-UI designers, Backend(Python, Django), Front-end (JavaScript, TypeScript);
-  - Worked according to the **_Scrum, Agile methodology: Jira, Slack, Trello_**;
-  - Participating in regular sprint reviews;
-  - Retrospectiving previous sprints;
-  - Creating a business profile for the marketplace, updating the old functionality, introducing new features for the users convenience.
-  - **_Technologies used:_** **Kotlin, Android SDK, XML, ViewBinding, ViewBindingPropertyDelegate, Glide, NavigationComponent, Yandex Map SDK, Advanced Koin, Ktor, Retrofit, OkHttp3, Gradle, BuildSrc,  KDoc, Dokka, Kotlin DSL**.
+### Relatively Young but with Perspectives 
+
+A local IT-company that specializes in IT consulting and robust web application development, providing solutions for most of the client's problems. 
+
+- Supporting a legacy project by fixing bugs & implementing new features.
+- Integration with IOS(Swift), UX-UI designers, Backend(Python, Django), Front-end (JavaScript, TypeScript).
+- Working according to the **_Scrum, Agile methodology: Jira, Slack, Trello_**.
+- Participating in regular sprint reviews.
+- Retrospectively analyzing previous sprints.
+- Creating a business profile for the marketplace, updating old functionality, and introducing new features for user convenience.  - **_Technologies used:_** **Kotlin, Android SDK, XML, ViewBinding, ViewBindingPropertyDelegate, Glide, NavigationComponent, Yandex Map SDK, Advanced Koin, Ktor, Retrofit, OkHttp3, Gradle, BuildSrc,  KDoc, Dokka, Kotlin DSL**.
 
 #### 🏆 Role Achievements 
 
@@ -139,15 +145,16 @@ In my role as the Lead Android Developer, my achievements reflect my unwavering 
 
 ## **Android Developer** [Avangard Style](https://avangardstyle.kg/) _(Feb 2023 - Apr 2023)_ <br>
 
-In a contracted role spanning two months at AvangardStyle, I successfully developed a comprehensive Android application from scratch for a burgeoning building company. This application has since revolutionized the company's payment ecosystem by providing a robust, secure, and user-friendly platform for residents to seamlessly manage their rent payments and other related transactions.
+- Comprehensive Android application development.
+- Client interfacing to understand and translate needs into functional specifications.
+- Solving design and functionality challenges to align the final product with the client's vision.
+- Collaboration with iOS developers to ensure a cohesive, cross-platform user experience.
 
-Demonstrating strong communication and problem-solving skills, I actively interfaced with the client to gain a thorough understanding of their needs, translating them into functional specifications. I navigated and solved numerous challenges regarding the app's design and functionality, ensuring the final product aligned with the client's vision and exceeded their expectations.
-
-Further, I fostered an effective collaborative environment with the iOS developer, sharing insights from my problem-solving experiences to guide him in addressing similar challenges. This collaboration not only expedited the resolution of technical issues but also facilitated a cohesive, cross-platform user experience for the client's customers.
-
-Overall, my impactful contributions at AvangardStyle underscore my ability to drive projects from inception to completion, while delivering value and fostering cross-functional collaboration.
-<br><br>
-
+#### 🏆 Role Achievements 
+- Developed a comprehensive Android application from scratch for a burgeoning building company, revolutionizing the company's payment ecosystem.
+- Successfully navigated and solved numerous challenges regarding the app's design and functionality, aligning the final product with the client's vision and exceeding their expectations.
+- Fostered an effective collaborative environment with the iOS developer, expediting the resolution of technical issues and facilitating a cohesive, cross-platform user experience.
+- Demonstrated strong communication and problem-solving skills, contributing to projects from inception to completion and fostering cross-functional collaboration.<br><br>
 
 ## 📃 Certificates
 
