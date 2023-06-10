@@ -1,5 +1,5 @@
 # Timur Abdyraev
-_Android Developer with Rich Experience in Mobile Application Development and Team Leadership from Kyrgyzstan, Bishkek  🇰🇬_ <br>
+_Android Developer with Rich Experience in Mobile Application Development and Team Leadership from Bishkek, Kyrgyzstan 🇰🇬_ <br>
 
 [Email](mailto:timplifier@gmail.com) /  [LinkedIn](https://www.linkedin.com/in/timur-abdyraev/) / [GitHub](https://github.com/timplifier/) / [Telegram](https://t.me/timplifier)
 
