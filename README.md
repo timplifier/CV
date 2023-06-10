@@ -3,7 +3,7 @@ _Android Developer with Rich Experience in Mobile Application Development and Te
 
 [Email](mailto:timplifier@gmail.com) /  [LinkedIn](https://www.linkedin.com/in/timur-abdyraev/) / [GitHub](https://github.com/timplifier/) / [Telegram](https://t.me/timplifier)
 
-Hello! I am a seasoned **Android Developer** with _1 year and 4 months_ of commercial experience specializing in mobile android application development. My technical prowess in **Java**, **Kotlin**, and **Android SDK** forms the foundation of my development expertise. Moreover, I bring leadership skills to the table, having had the opportunity to lead teams and guide projects to successful completion.
+Hello! I am a seasoned **Android Developer** with _1 year and 6 months_ of commercial experience specializing in mobile android application development. My technical prowess in **Java**, **Kotlin**, and **Android SDK** forms the foundation of my development expertise. Moreover, I bring leadership skills to the table, having had the opportunity to lead teams and guide projects to successful completion.
 
 ## Core Proficiencies
 

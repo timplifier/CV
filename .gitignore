@@ -1,7 +1,5 @@
 # Ignore node
 node_modules
-package.json
-package-lock.json
 
 _site/
 .sass-cache/
