@@ -33,6 +33,7 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 - Git & GitFlow
 - Kotlin, Java 
 - Android SDK
+- XML
 - Gradle 
 - Modularization
 - Kotlin DSL
