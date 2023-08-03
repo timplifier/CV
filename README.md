@@ -168,4 +168,5 @@ Implemented a new feature from scratch in TSJDom.Com, seamlessly integrating it 
 
 ## 👩🏼‍🎓 Education
 
+**Bachelor of Computer Science** [Kyrgyz State Technical University](https://kstu.kg/en/) _(2023 - 2027)_ <br>
 **Android Developer** [Geeks](https://geeks.edu.kg/) _(Nov 2021 - Mar 2023)_ <br>
