@@ -29,11 +29,11 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 
 - OOP
 - SOLID
-- Clean Architecture
 - Git & GitFlow
-- Kotlin, Java 
+- Kotlin, Java, Swift
+- Clean Architecture
 - Android SDK
-- XML
+- XML, SwiftUI
 - Gradle 
 - Modularization
 - Kotlin DSL
