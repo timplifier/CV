@@ -27,31 +27,34 @@ I'm familiar with responsive design principles and strive to simplify user inter
 I am always striving for self-improvement and enhancement of my hard skills, so I make it a point to learn new technologies and tools as they emerge. I believe in the power of teamwork and am always ready to share my knowledge and experience with other developers. Together, we can create maintainable, high-quality, and efficient code that aligns with our team's objectives.
 ## 🎯 Hard Skills
 
-- OOP
-- SOLID
-- Git & GitFlow
-- Kotlin, Java, Swift
-- Clean Architecture
-- Android SDK
-- XML, SwiftUI
-- Gradle 
-- Modularization
-- Kotlin DSL
-- Dependency Management (buildSrc, Version Catalog) 
-- Dokka ( HTML-Based, Markdown-Based ) 
-- Serializable, Parcelable
-- Navigation Component, Safe Args, Base Deep Linking 
-- ViewBinding, ViewBindingPropertyDelegate
-- MaterialDesign
-- ConstraintLayout, GuideLines 
-- Glide, Coil, Picasso 
-- MVVM
-- Single Activity Architecture
-- Dagger-Hilt, Koin
-- Room
-- Retrofit2
-- OkHttp3
-- Paging3
+- Object-Oriented Programming 
+- SOLID  
+- Git & GitFlow  
+- Kotlin, Java, Swift ( entry-level )   
+- Kotlin Coroutines 
+- Dokka ( HTML-Based, Markdown-Based )  
+- Clean Architecture 
+- MVVM  
+- Android SDK  
+- Single Activity Architecture  
+- Gradle ( Groovy, Kotlin Scripts )   
+- Multi-Module architecture   
+- Dependency Management (buildSrc, Version Catalog)  
+- XML, SwiftUI ( entry-level )  
+- LiveData, ViewModel 
+- MaterialDesign 
+- Navigation Component ( Safe Args, Deep Links )   
+- ViewBinding, ViewBindingPropertyDelegate   
+- Glide, Coil, Picasso  
+- Paging3  
+- Yandex Map SDK, Google Maps ( entry-level )  
+- Google Play Console  
+- Push notifications ( Firebase Cloud Messaging ) 
+- Hilt, Koin   
+- SharedPreferences, Room  
+- REST API ( Retrofit2, Okhttp3 )  
+- WebSocket ( Ktor )     
+- PayBox SDK 
 
 ## 👩🏼‍💻 Engineering Experience
 
@@ -65,7 +68,7 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 - Regular code reviews for interns;
 - Conducting technical interviews with new interns;
 - Leading the Interns. Assisting in solving problems;
-- **_Technologies used:_** **Kotlin, Android SDK, XML, ViewBinding, ViewBindingPropertyDelegate, Glide, NavigationComponent, Yandex Map SDK, Advanced Koin, Ktor, WebSockets, Retrofit, OkHttp3, Gradle, VersionCatalog, KDoc, Dokka, Kotlin DSL**.
+- **_Technologies used:_** **Kotlin, Android SDK, XML, ViewBinding, ViewBindingPropertyDelegate, Glide, NavigationComponent, Yandex Map SDK, Advanced Koin, Ktor, WebSockets, Retrofit, OkHttp3, Gradle, PayBox SDK, VersionCatalog, KDoc, Dokka, Kotlin DSL**.
 
 **Main project**: **[Tez Sat](https://play.google.com/store/apps/details?id=com.tezsat.tezsat)** <br>
 
