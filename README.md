@@ -33,6 +33,7 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 - Kotlin, Java, Swift ( entry-level )   
 - Kotlin Coroutines 
 - Dokka ( HTML-Based, Markdown-Based )  
+- Konsist
 - Clean Architecture 
 - MVVM  
 - Android SDK  
