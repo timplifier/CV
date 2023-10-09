@@ -31,7 +31,7 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 - SOLID  
 - Git & GitFlow  
 - Kotlin, Java, Swift ( entry-level )   
-- Kotlin Coroutines, RxJava2 ( RxAndroid2, RxKotlin2 )
+- Kotlin Coroutines, RxJava
 - Dokka ( HTML-Based, Markdown-Based )  
 - Konsist
 - Clean Architecture 
