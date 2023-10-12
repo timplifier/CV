@@ -31,11 +31,11 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 - SOLID  
 - Git & GitFlow  
 - Kotlin, Java, Swift ( entry-level )   
-- Kotlin Coroutines, RxJava
+- kotlinx-coroutines, RxJava
 - Dokka ( HTML-Based, Markdown-Based )  
 - Konsist
 - Clean Architecture 
-- MVVM  
+- MVVM, MVI 
 - Android SDK  
 - Single Activity Architecture  
 - Gradle ( Groovy, Kotlin Scripts )   
