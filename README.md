@@ -37,24 +37,18 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 - Clean Architecture 
 - MVVM, MVI, Orbit
 - Android SDK  
-- Single Activity Architecture  
 - Gradle ( Groovy, Kotlin Scripts )   
-- Multi-Module architecture   
 - Dependency Management (buildSrc, Version Catalog)  
-- XML, SwiftUI ( entry-level )  
-- LiveData, ViewModel 
-- MaterialDesign 
-- Navigation Component ( Safe Args, Deep Links )   
-- ViewBinding, ViewBindingPropertyDelegate   
-- Glide, Coil, Picasso  
-- Paging3  
-- Yandex Map SDK, Google Maps ( entry-level )  
-- Google Play Console  
-- Push notifications ( Firebase Cloud Messaging ) 
+- XML, Jetpack Compose, SwiftUI ( entry-level )  
+- Android Jetpack
+- Room, SQLite
 - Dagger2, Hilt, Koin   
-- SharedPreferences, Room  
 - REST API ( Retrofit2, Okhttp3 )  
 - WebSocket ( Ktor )     
+- Google Play Console  
+- Push notifications ( Firebase Cloud Messaging ) 
+- Yandex Map SDK, Google Maps ( entry-level )  
+- Material Design Guidelines
 - PayBox SDK 
 
 ## 👩🏼‍💻 Engineering Experience
