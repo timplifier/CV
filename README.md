@@ -35,7 +35,7 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 - Dokka ( HTML-Based, Markdown-Based )  
 - Konsist
 - Clean Architecture 
-- MVVM, MVI, Orbit
+- MVVM, MVI, Orbit, MVP
 - Android SDK  
 - Gradle ( Groovy, Kotlin Scripts )   
 - Dependency Management (buildSrc, Version Catalog)  
