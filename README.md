@@ -35,13 +35,13 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 - Dokka ( HTML-Based, Markdown-Based )  
 - Konsist
 - Clean Architecture 
-- MVVM, MVI, Orbit, MVP
+- MVVM, MVI, MVP
 - Android SDK  
 - Gradle ( Groovy, Kotlin Scripts )   
 - Dependency Management (buildSrc, Version Catalog)  
 - XML, Jetpack Compose, SwiftUI ( entry-level )  
 - Android Jetpack
-- Room, SQLite
+- SQLite
 - Dagger2, Hilt, Koin   
 - REST API ( Retrofit2, Okhttp3 )  
 - WebSocket ( Ktor )     
