@@ -129,7 +129,7 @@ Items claim is also easy with Tez Sat.
 - Fostered an effective collaborative environment with the iOS developer, expediting the resolution of technical issues and facilitating a cohesive, cross-platform user experience.
 - Demonstrated strong communication and problem-solving skills, contributing to projects from inception to completion and fostering cross-functional collaboration.<br><br>
 
-## **Android Developer** [Timely Soft](www.timelysoft.net/) _(November 2021 - Nov 2022)_ <br>
+## **Android Developer** [Timely Soft](www.timelysoft.net/) _(Nov 2021 - Nov 2022)_ <br>
 
 ### Gold Microsoft Partner in Application Development Competency
 
