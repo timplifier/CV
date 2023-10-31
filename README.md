@@ -41,7 +41,7 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 - Dependency Management (buildSrc, Version Catalog)  
 - XML, Jetpack Compose, SwiftUI ( entry-level )  
 - Android Jetpack
-- SQLite
+- Realm, SQLite
 - Dagger2, Hilt, Koin   
 - REST API ( Ktor, Retrofit2, Okhttp3 )  
 - GraphQL ( Apollo Client )
