@@ -43,7 +43,7 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 - Android Jetpack
 - SQLite
 - Dagger2, Hilt, Koin   
-- REST API ( Retrofit2, Okhttp3 )  
+- REST API ( Ktor, Retrofit2, Okhttp3 )  
 - GraphQL ( Apollo Client )
 - WebSocket ( Ktor )     
 - Google Play Console  
