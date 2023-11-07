@@ -27,29 +27,28 @@ I'm familiar with responsive design principles and strive to simplify user inter
 I am always striving for self-improvement and enhancement of my hard skills, so I make it a point to learn new technologies and tools as they emerge. I believe in the power of teamwork and am always ready to share my knowledge and experience with other developers. Together, we can create maintainable, high-quality, and efficient code that aligns with our team's objectives.
 ## 🎯 Hard Skills
 
-- Object-Oriented Programming 
+- Object-Oriented Programming (OOP)
 - SOLID  
-- Git & GitFlow  
-- Kotlin, Java, Swift ( entry-level )   
+- Git 
+- Kotlin, Java, Swift  
 - kotlinx-coroutines, RxJava
-- Dokka ( HTML-Based, Markdown-Based )  
+- Dokka 
 - Konsist
 - Clean Architecture 
 - MVVM, MVI, MVP
-- Android SDK  
-- Gradle ( Groovy, Kotlin Scripts )   
-- Dependency Management (buildSrc, Version Catalog)  
-- XML, Jetpack Compose, SwiftUI ( entry-level )  
+- Android SDK
+- Gradle (Groovy, Kotlin Scripts)
+- Dependency Management (buildSrc, Version Catalog)
+- XML, Jetpack Compose, SwiftUI 
 - Android Jetpack
 - Realm, SQLite
-- Dagger2, Hilt, Koin   
-- REST API ( Ktor, Retrofit2, Okhttp3 )  
-- GraphQL ( Apollo Client )
-- WebSocket ( Ktor )     
-- Google Play Console  
-- Push notifications ( Firebase Cloud Messaging ) 
-- Yandex Map SDK, Google Maps ( entry-level )  
-- Material Design Guidelines
+- Dagger2, Hilt, Koin
+- REST API (Ktor, Retrofit2, Okhttp3)  
+- GraphQL (Apollo Client)
+- WebSocket (Ktor)
+- Firebase
+- Google Play Console
+- Yandex MapKit, Google Maps 
 - PayBox SDK 
 
 ## 👩🏼‍💻 Engineering Experience
