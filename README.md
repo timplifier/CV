@@ -63,8 +63,7 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 - Regular code reviews for interns;
 - Conducting technical interviews with new interns;
 - Leading the Interns. Assisting in solving problems;
-- **_Technologies used:_** **Object-Oriented Programming (OOP) · SOLID Design Principles · Git · Kotlin · Swift (Programming Language) · kotlinx-coroutines · Dokka · Model-view-viewmodel (MVVM) · Gradle · Kotlin Scripts · buildSrc · Version Catalog · XML · SwiftUI · Android Jetpack · Koin · Ktor · Retrofit2 · OkHttp3 · WebSocket · Firebase · Google Play Console 
-· Yandex MapKit**.
+- **_Technologies used:_** **Object-Oriented Programming (OOP) · SOLID Design Principles · Git · Kotlin · Swift · kotlinx-coroutines · Dokka · Model-view-viewmodel (MVVM) · Android · Gradle · Groovy · Kotlin Scripts · buildSrc · Version Catalog · XML · SwiftUI · Android Jetpack · Koin · Ktor · Retrofit2 · OkHttp3 · WebSocket · Firebase · Google Play Console · Yandex MapKit**.
 
 **Main project**: **[Tez Sat](https://play.google.com/store/apps/details?id=com.tezsat.tezsat)** <br>
 
@@ -94,7 +93,8 @@ A local IT-company that specializes in IT consulting and robust web application 
 - Working according to the **_Scrum, Agile methodology: Jira, Slack, Trello_**.
 - Participating in regular sprint reviews.
 - Retrospectively analyzing previous sprints.
-- Creating a business profile for the marketplace, updating old functionality, and introducing new features for user convenience.  - **_Technologies used:_** **Kotlin, Android SDK, XML, ViewBinding, ViewBindingPropertyDelegate, Glide, NavigationComponent, Yandex Map SDK, Advanced Koin, Ktor, Retrofit, OkHttp3, Gradle, BuildSrc,  KDoc, Dokka, Kotlin DSL**.
+- Creating a business profile for the marketplace, updating old functionality, and introducing new features for user convenience.
+- **_Technologies used:_** **SOLID Design Principles · Kotlin · kotlinx-coroutines · Model-view-viewmodel (MVVM) · Android · Gradle · Kotlin Scripts · buildSrc · XML · Android Jetpack · Retrofit2 · OkHttp3 · Firebase**.
 
 #### 🏆 Role Achievements 
 
@@ -123,6 +123,8 @@ Items claim is also easy with Tez Sat.
 - Client interfacing to understand and translate needs into functional specifications.
 - Solving design and functionality challenges to align the final product with the client's vision.
 - Collaboration with iOS developers to ensure a cohesive, cross-platform user experience.
+- **_Technologies used:_** **SOLID Design Principles · kotlinx-coroutines · Model-view-viewmodel (MVVM) · Android · Gradle · Kotlin Scripts · XML · Android Jetpack · Hilt · Retrofit2 · OkHttp3**.
+
 
 #### 🏆 Role Achievements 
 - Developed a comprehensive Android application from scratch for a burgeoning building company, revolutionizing the company's payment ecosystem.
@@ -143,7 +145,7 @@ Staff are attested by **Microsoft** programmes. **Timely Soft** is a local IT-co
 - Constant hard skills improvement with mentor.
 - Supporting a legacy project.
 - Implementing new features in the legacy project.
-- **_Technologies used:_** **Java, Kotlin, Android SDK, XML, ViewBinding, ViewBindingPropertyDelegate, Glide, Navigation Component, CoreLibraryDesugaring, Hilt, Retrofit, OkHttp3, BuildSrc, Kotlin DSL**.
+- **_Technologies used:_** **Object-Oriented Programming (OOP) · SOLID Design Principles · Kotlin · Java · kotlinx-coroutines · Clean Architecture · Model-view-viewmodel (MVVM) · Android · Gradle · Kotlin Scripts · buildSrc · XML · Android Jetpack · Hilt · Retrofit2 · OkHttp3**.
 
 **Projects:**
 
