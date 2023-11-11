@@ -63,7 +63,8 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 - Regular code reviews for interns;
 - Conducting technical interviews with new interns;
 - Leading the Interns. Assisting in solving problems;
-- **_Technologies used:_** **Kotlin, Android SDK, XML, ViewBinding, ViewBindingPropertyDelegate, Glide, NavigationComponent, Yandex Map SDK, Advanced Koin, Ktor, WebSockets, Retrofit, OkHttp3, Gradle, PayBox SDK, VersionCatalog, KDoc, Dokka, Kotlin DSL**.
+- **_Technologies used:_** **Object-Oriented Programming (OOP) · SOLID Design Principles · Git · Kotlin · Swift (Programming Language) · kotlinx-coroutines · Dokka · Model-view-viewmodel (MVVM) · Gradle · Kotlin Scripts · buildSrc · Version Catalog · XML · SwiftUI · Android Jetpack · Koin · Ktor · Retrofit2 · OkHttp3 · WebSocket · Firebase · Google Play Console 
+· Yandex MapKit**.
 
 **Main project**: **[Tez Sat](https://play.google.com/store/apps/details?id=com.tezsat.tezsat)** <br>
 
