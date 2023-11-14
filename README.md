@@ -33,7 +33,7 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 - Kotlin, Java, Swift  
 - kotlinx-coroutines, RxJava
 - Dokka 
-- JUnit4, Espresso, Turbine, Konsist
+- JUnit, Espresso, Turbine, Konsist
 - Clean Architecture 
 - MVVM, MVI, MVP
 - Android SDK
