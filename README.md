@@ -47,6 +47,7 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 - GraphQL (Apollo Client)
 - WebSocket (Ktor)
 - Firebase
+- Algolia
 - Google Play Console
 - Yandex MapKit, Google Maps 
 - PayBox SDK 
