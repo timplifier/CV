@@ -33,7 +33,7 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 - Kotlin, Java, Swift  
 - kotlinx-coroutines, RxJava
 - Dokka 
-- JUnit, Espresso, Turbine, Konsist
+- JUnit 5, Espresso, Turbine, Konsist
 - Clean Architecture 
 - MVVM, MVI, MVP
 - Android SDK
@@ -49,8 +49,7 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 - Firebase
 - Algolia
 - Google Play Console
-- Yandex MapKit, Google Maps 
-- PayBox SDK 
+- Google Maps, Yandex MapKit
 
 ## 👩🏼‍💻 Engineering Experience
 
