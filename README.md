@@ -3,7 +3,7 @@ _Android Developer with Rich Experience in Mobile Application Development and Te
 
 [Email](mailto:timplifier@gmail.com) /  [LinkedIn](https://www.linkedin.com/in/timur-abdyraev/) / [GitHub](https://github.com/timplifier/) / [Telegram](https://t.me/timplifier)
 
-Hello! I am a seasoned **Android Developer** with _2 years and 1 month_ of commercial experience specializing in mobile android application development. My technical prowess in **Java**, **Kotlin**, and **Android SDK** forms the foundation of my development expertise. Moreover, I bring leadership skills to the table, having had the opportunity to lead teams and guide projects to successful completion.
+Hello! I am a seasoned **Android Developer** with _2 years and 2 months_ of commercial experience specializing in mobile android application development. My technical prowess in **Java**, **Kotlin**, and **Android SDK** forms the foundation of my development expertise. Moreover, I bring leadership skills to the table, having had the opportunity to lead teams and guide projects to successful completion.
 
 ## Core Proficiencies
 
@@ -170,4 +170,4 @@ Implemented a new feature from scratch in TSJDom.Com, seamlessly integrating it 
 ## 👩🏼‍🎓 Education
 
 **Bachelor of Computer Science** [Kyrgyz State Technical University](https://kstu.kg/en/) _(2023 - 2027)_ <br>
-**Android Developer** [Geeks](https://geeks.edu.kg/) _(Nov 2021 - Mar 2023)_ <br>
+**Android Developer** [Geeks](https://geeks.kg/) _(Nov 2021 - Mar 2023)_ <br>
