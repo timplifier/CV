@@ -28,9 +28,9 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 ## 🎯 Hard Skills
 
 - Object-Oriented Programming (OOP)
-- SOLID  
+- SOLID
 - Git 
-- Kotlin, Java, Swift  
+- Kotlin, Java, Swift
 - kotlinx-coroutines, RxJava
 - Dokka 
 - JUnit 5, Espresso, Turbine, Konsist
@@ -39,11 +39,11 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 - Android SDK
 - Gradle (Groovy, Kotlin Scripts)
 - Dependency Management (buildSrc, Version Catalog)
-- XML, Jetpack Compose, SwiftUI 
+- XML, Jetpack Compose, SwiftUI
 - Android Jetpack
 - Realm, SQLite
 - Dagger2, Hilt, Koin
-- REST API (Ktor, Retrofit2, Okhttp3)  
+- REST API (Ktor, Retrofit2, Okhttp)
 - GraphQL (Apollo Client)
 - WebSocket (Ktor)
 - Firebase
