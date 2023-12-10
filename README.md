@@ -1,9 +1,9 @@
 # Timur Abdyraev
-_Android Developer with Rich Experience in Mobile Application Development and Team Leadership from Bishkek, Kyrgyzstan 🇰🇬_ <br>
+_Middle Android Developer with Rich Experience in Mobile Application Development and Team Leadership from Bishkek, Kyrgyzstan 🇰🇬_ <br>
 
 [Email](mailto:timplifier@gmail.com) / [LinkedIn](https://www.linkedin.com/in/timur-abdyraev/) / [GitHub](https://github.com/timplifier/) / [Telegram](https://t.me/timplifier) / [Discord](https://discord.com/invite/PKYndDQW)
 
-Hello! I am a seasoned **Android Developer** with _2 years and 2 months_ of commercial experience specializing in mobile android application development. My technical prowess in **Java**, **Kotlin**, and **Android SDK** forms the foundation of my development expertise. Moreover, I bring leadership skills to the table, having had the opportunity to lead teams and guide projects to successful completion.
+Hello! I am a seasoned **Middle Android Developer** with _2 years and 2 months_ of commercial experience specializing in mobile android application development. My technical prowess in **Java**, **Kotlin**, and **Android SDK** forms the foundation of my development expertise. Moreover, I bring leadership skills to the table, having had the opportunity to lead teams and guide projects to successful completion.
 
 ## Core Proficiencies
 
