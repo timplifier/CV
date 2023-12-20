@@ -35,7 +35,7 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 - Dokka 
 - JUnit 5, Espresso, Turbine, Konsist
 - Clean Architecture 
-- MVVM, MVC, MVP, MVI
+- MVC, MVP, MVI, MVVM
 - Android SDK
 - Gradle (Groovy, Kotlin Scripts)
 - Dependency Management (buildSrc, Version Catalog)
