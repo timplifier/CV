@@ -3,7 +3,7 @@ _Middle Android Developer with Rich Experience in Mobile Application Development
 
 [Email](mailto:timplifier@gmail.com) / [LinkedIn](https://www.linkedin.com/in/timur-abdyraev/) / [GitHub](https://github.com/timplifier/) / [Telegram](https://t.me/timplifier) / [Discord](https://discord.com/invite/PKYndDQW)
 
-Hello! I am a seasoned **Middle Android Developer** with _2 years and 4 months_ of commercial experience specializing in mobile android application development. My technical prowess in **Java**, **Kotlin**, and **Android SDK** forms the foundation of my development expertise. Moreover, I bring leadership skills to the table, having had the opportunity to lead teams and guide projects to successful completion.
+Hello! I am a seasoned **Middle Android Developer** with _2 years and 7 months_ of commercial experience specializing in mobile android application development. My technical prowess in **Java**, **Kotlin**, and **Android SDK** forms the foundation of my development expertise. Moreover, I bring leadership skills to the table, having had the opportunity to lead teams and guide projects to successful completion.
 
 ## Core Proficiencies
 
@@ -49,11 +49,13 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 - Firebase
 - Algolia
 - Google Play Console
-- Google Maps, Yandex MapKit
+- Google Maps, Yandex MapKit, 2GIS SDK
 
 ## 👩🏼‍💻 Engineering Experience
 
-## **Lead Android Developer** [GeekStudio](https://geekstudio.kg/) _(Mar 2023 - Present)_ <br>
+## **Middle Android Developer** [DevCats](https://devcats.kg/) _(Apr 2024 - Present)_ <br>
+
+## **Lead Android Developer** [GeekStudio](https://geekstudio.kg/) _(Mar 2023 - Apr 2024)_ <br>
 - Implementing hard features;
 - Writing technical documentation;
 - Participating in regular sprint reviews;
