@@ -1,4 +1,5 @@
 # Ignore node
+package-lock.json
 node_modules
 
 _site/
