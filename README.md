@@ -1,4 +1,5 @@
 # Timur Abdyraev
+
 _Middle Android Developer with Rich Experience in Mobile Application Development and Team Leadership from Bishkek, Kyrgyzstan 🇰🇬_ <br>
 
 [Email](mailto:timplifier@gmail.com) / [LinkedIn](https://www.linkedin.com/in/timplifier/) / [GitHub](https://github.com/timplifier/) / [Telegram](https://t.me/timplifier) / [Discord](https://discord.com/invite/PKYndDQW)
@@ -25,16 +26,17 @@ I'm familiar with responsive design principles and strive to simplify user inter
 ## Continuous Learning and Collaboration
 
 I am always striving for self-improvement and enhancement of my hard skills, so I make it a point to learn new technologies and tools as they emerge. I believe in the power of teamwork and am always ready to share my knowledge and experience with other developers. Together, we can create maintainable, high-quality, and efficient code that aligns with our team's objectives.
+
 ## 🎯 Hard Skills
 
 - Object-Oriented Programming (OOP)
 - SOLID
-- Git 
+- Git
 - Kotlin, Java, Swift
 - kotlinx-coroutines, RxJava
-- Dokka 
+- Dokka
 - JUnit 5, Espresso, Turbine, Konsist
-- Clean Architecture 
+- Clean Architecture
 - MVC, MVP, MVI, MVVM
 - Android SDK
 - Gradle (Groovy, Kotlin Scripts)
@@ -55,7 +57,18 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 
 ## **Middle Android Developer** [DevCats](https://devcats.kg/) _(Apr 2024 - Present)_ <br>
 
+- Implementing hard features;
+- Refining existing features;
+- Fixing hard bugs;
+- Participating in design reviews;
+- Regularly being code-reviewed by multiple people;
+
+**Main project**: \*\*[My O!](https://play.google.com/store/apps/details?id=kg.o.nurtelecom)
+
+My O! - My O! includes O!Dengi e-wallet for payments and money transfer, O!Market marketplace for online shopping, and O! user’s personal account for number management. Easy to register from any SIM card
+
 ## **Lead Android Developer** [GeekStudio](https://geekstudio.kg/) _(Mar 2023 - Apr 2024)_ <br>
+
 - Implementing hard features;
 - Writing technical documentation;
 - Participating in regular sprint reviews;
@@ -69,13 +82,14 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 
 **Main project**: **[Tez Sat](https://play.google.com/store/apps/details?id=com.tezsat.tezsat)** <br>
 
-Tez Sat - Free marketplace in your pocket, developed by Kyrgyz for Kyrgyzstan. allowing you to sell items with convenience by posting ads with photos. 
+Tez Sat - Free marketplace in your pocket, developed by Kyrgyz for Kyrgyzstan. allowing you to sell items with convenience by posting ads with photos.
 Items claim is also easy with Tez Sat.
 
-#### 🏆 Role Achievements 
+#### 🏆 Role Achievements
+
 As the **Lead Android Developer**, I am continually making impressive strides that leave a lasting impression on everyone around me. One of my standout accomplishments is the complete transformation of our intern recruitment process. I have designed and implemented a **cutting-edge, scalable competency matrix** that revolutionizes how we onboard interns. This matrix not only allows us to attract top-tier candidates but also expands the skillsets of our existing interns, making them invaluable contributors to our team.
 
-In just one month, I have successfully trained and prepared six interns to face the realities of Android development. Through an intensive *crash-course program*, I provide them with comprehensive knowledge and hands-on tasks to ensure they become well-versed in the technologies we utilize. This rapid training approach empowers them to hit the ground running and contribute effectively to our projects.
+In just one month, I have successfully trained and prepared six interns to face the realities of Android development. Through an intensive _crash-course program_, I provide them with comprehensive knowledge and hands-on tasks to ensure they become well-versed in the technologies we utilize. This rapid training approach empowers them to hit the ground running and contribute effectively to our projects.
 
 Guiding a team of seven Android developers, I am leading the development of the **Tez Sat legacy project**. As part of this endeavor, I have significantly improved the app's build performance by optimizing our utilization of **Gradle as a build tool**. This enhancement has dramatically reduced build times, boosting productivity and streamlining the development process.
 
@@ -86,9 +100,10 @@ Furthermore, I have taken the initiative to restructure our app's architecture t
 In my role as the Lead Android Developer, my achievements reflect my unwavering commitment to innovation, efficiency, and continuous improvement. I am continuously driving positive change by revolutionizing our intern recruitment, training interns effectively, optimizing build performance, fortifying security measures, and enhancing our app's architecture. These accomplishments showcase my ability to spearhead impactful transformations that elevate the quality and success of our Android projects in the present moment.
 
 ## **Android Developer** [GeekStudio](https://geekstudio.kg/) _(Nov 2022 - Mar 2023)_ <br>
-### Relatively Young but with Perspectives 
 
-A local IT-company that specializes in IT consulting and robust web application development, providing solutions for most of the client's problems. 
+### Relatively Young but with Perspectives
+
+A local IT-company that specializes in IT consulting and robust web application development, providing solutions for most of the client's problems.
 
 - Supporting a legacy project by fixing bugs & implementing new features.
 - Integration with IOS(Swift), UX-UI designers, Backend(Python, Django), Front-end (JavaScript, TypeScript).
@@ -98,7 +113,7 @@ A local IT-company that specializes in IT consulting and robust web application 
 - Creating a business profile for the marketplace, updating old functionality, and introducing new features for user convenience.
 - **_Technologies used:_** **SOLID Design Principles · Kotlin · kotlinx-coroutines · Model-view-viewmodel (MVVM) · Android · Gradle · Kotlin Scripts · buildSrc · XML · Android Jetpack · Retrofit2 · OkHttp3 · Firebase**.
 
-#### 🏆 Role Achievements 
+#### 🏆 Role Achievements
 
 During my tenure on the TezSat project, I accomplished significant milestones in multiple areas, resulting in improved functionality, efficiency, and developer experience.
 
@@ -115,9 +130,9 @@ During my tenure on the TezSat project, I accomplished significant milestones in
 Through these achievements, I played a pivotal role in enhancing various aspects of the TezSat project, including authentication, documentation, architecture, and build management.
 
 **Main project**: **[Tez Sat](https://play.google.com/store/apps/details?id=com.tezsat.tezsat)** <br>
-Tez Sat - Free marketplace in your pocket, developed by Kyrgyz for Kyrgyzstan. allowing you to sell items with convenience by posting ads with photos. 
+Tez Sat - Free marketplace in your pocket, developed by Kyrgyz for Kyrgyzstan. allowing you to sell items with convenience by posting ads with photos.
 Items claim is also easy with Tez Sat.
-  <br><br>
+<br><br>
 
 ## **Android Developer** [Avangard Style](https://avangardstyle.kg/) _(Feb 2023 - Apr 2023)_ <br>
 
@@ -127,8 +142,8 @@ Items claim is also easy with Tez Sat.
 - Collaboration with iOS developers to ensure a cohesive, cross-platform user experience.
 - **_Technologies used:_** **SOLID Design Principles · kotlinx-coroutines · Model-view-viewmodel (MVVM) · Android · Gradle · Kotlin Scripts · XML · Android Jetpack · Hilt · Retrofit2 · OkHttp3**.
 
+#### 🏆 Role Achievements
 
-#### 🏆 Role Achievements 
 - Developed a comprehensive Android application from scratch for a burgeoning building company, revolutionizing the company's payment ecosystem.
 - Successfully navigated and solved numerous challenges regarding the app's design and functionality, aligning the final product with the client's vision and exceeding their expectations.
 - Fostered an effective collaborative environment with the iOS developer, expediting the resolution of technical issues and facilitating a cohesive, cross-platform user experience.
@@ -155,7 +170,8 @@ Staff are attested by **Microsoft** programmes. **Timely Soft** is a local IT-co
 
 - **TSJ.Security** + **TSJDom.Com** - **TSZ** portal is an Internet site for your partnership (TSZ, SNT, etc.), which provides special mechanisms for the distribution, storage and operational exchange of information between the board and members of TSZ.<br><br>
 
-#### 🏆 Role Achievements 
+#### 🏆 Role Achievements
+
 Implemented a new feature from scratch in TSJDom.Com, seamlessly integrating it into an existing legacy project without the luxury of a transition period. Successfully completed the task independently, relying solely on personal expertise and knowledge. Effectively utilized pre-existing logic and seamlessly incorporated it into the new feature, ensuring the integrity of the entire system remained intact. Demonstrated exceptional dedication by working on the project solo, dedicating personal time during nights to ensure timely completion.
 
 ## 📃 Certificates
