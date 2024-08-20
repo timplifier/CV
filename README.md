@@ -65,7 +65,7 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 
 **Main project**: **[My O!](https://play.google.com/store/apps/details?id=kg.o.nurtelecom)**
 
-My O! - My O! includes O!Dengi e-wallet for payments and money transfer, O!Market marketplace for online shopping, and O! user’s personal account for number management. Easy to register from any SIM card
+My O! - includes O!Dengi e-wallet for payments and money transfer, O!Market marketplace for online shopping, and O! user’s personal account for number management. Easy to register from any SIM card
 
 ## **Lead Android Developer** [GeekStudio](https://geekstudio.kg/) _(Mar 2023 - Apr 2024)_ <br>
 
