@@ -63,7 +63,7 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 - Participating in design reviews;
 - Regularly being code-reviewed by multiple people;
 
-**Main project**: \*\*[My O!](https://play.google.com/store/apps/details?id=kg.o.nurtelecom)
+**Main project**: **[My O!](https://play.google.com/store/apps/details?id=kg.o.nurtelecom)**
 
 My O! - My O! includes O!Dengi e-wallet for payments and money transfer, O!Market marketplace for online shopping, and O! user’s personal account for number management. Easy to register from any SIM card
 
