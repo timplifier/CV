@@ -55,7 +55,20 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 
 ## 👩🏼‍💻 Engineering Experience
 
-## **Middle Android Developer** [DevCats](https://devcats.kg/) _(Apr 2024 - Present)_ <br>
+## **Middle Android Developer** [Beeline](https://beeline.kg/) _(Sep 2024 - Present)_ <br>
+
+- Implementing hard features;
+- Refining existing features;
+- Fixing hard bugs;
+- Participating in design reviews;
+- Participating in code reviews;
+- Actively utilizing Google Play Console;
+
+**Main project**: \*\*[Balance](https://play.google.com/store/apps/details?id=ru.mitapp.beeline_wallet&hl=en)
+
+Balance - E-wallet for payments and money transfer
+
+## **Middle Android Developer** [DevCats](https://devcats.kg/) _(Apr 2024 - Sep 2024)_ <br>
 
 - Implementing hard features;
 - Refining existing features;
