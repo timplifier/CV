@@ -64,7 +64,7 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 - Participating in code reviews;
 - Actively utilizing Google Play Console;
 
-**Main project**: \*\*[Balance](https://play.google.com/store/apps/details?id=ru.mitapp.beeline_wallet&hl=en)
+**Main project**: **[Balance](https://play.google.com/store/apps/details?id=ru.mitapp.beeline_wallet&hl=en)**
 
 Balance - E-wallet for payments and money transfer
 
