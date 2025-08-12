@@ -4,7 +4,7 @@ _Middle Android Developer with Rich Experience in Mobile Application Development
 
 [Email](mailto:timplifier@gmail.com) / [LinkedIn](https://www.linkedin.com/in/timplifier/) / [GitHub](https://github.com/timplifier/) / [Telegram](https://t.me/timplifier) / [Discord](https://discord.com/invite/PKYndDQW)
 
-Hello! I am a seasoned **Middle Android Developer** with over 2 years of commercial experience specializing in mobile android application development. My technical prowess in **Java**, **Kotlin**, and **Android SDK** forms the foundation of my development expertise. Moreover, I bring leadership skills to the table, having had the opportunity to lead teams and guide projects to successful completion.
+Hello! I am a seasoned **Middle Android Developer** with over 3 years of commercial experience specializing in mobile android application development. My technical prowess in **Java**, **Kotlin**, and **Android SDK** forms the foundation of my development expertise. Moreover, I bring leadership skills to the table, having had the opportunity to lead teams and guide projects to successful completion.
 
 ## Core Proficiencies
 
@@ -67,6 +67,22 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 **Main project**: **[Balance](https://play.google.com/store/apps/details?id=ru.mitapp.beeline_wallet&hl=en)**
 
 Balance - E-wallet for payments and money transfer
+
+#### 🏆 Role Achievements
+
+As the Middle Android Developer, i achieved:
+
+Rewrote main screen completely to add new functionality and new design, thus, optimized main screen by ~20% by reducing the amount of work done on the main thread and moved it to the background thread.
+
+Added edge-to-edge support so users with Android 15 and higher can comfortably use the application.
+
+Implemented a lot of new features.
+
+Fixed a ton of bugs related to essential application functionality, such as user session, payment and improved user experience by a lot.
+
+Published over 10 updates to the broad audience of more than 100.000 users
+
+Code-reviewed more than 10.000 lines of code for a year.
 
 ## **Middle Android Developer** [DevCats](https://devcats.kg/) _(Apr 2024 - Sep 2024)_ <br>
 
